@@ -1,5 +1,5 @@
 ### TheWarGame
-Cards game involving CPU vs Player. Duel and see who wins!
+Card game involving CPU vs Player. Duel and see who wins!
 
 ### Getting Started 
 To open this project, 
