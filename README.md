@@ -1,4 +1,8 @@
 ### TheWarGame
+
+<img width="322" alt="Screen Shot 2023-08-04 at 4 39 23 PM" src="https://github.com/nsb229/TheWarGame/assets/126029768/a9ddb3ab-d14d-4499-b430-dc4a5e62bb6b">
+
+
 Card game involving CPU vs Player. Duel and see who wins!
 
 ### Getting Started 
